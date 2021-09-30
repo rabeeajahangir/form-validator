@@ -2,15 +2,15 @@
 
 ## Table of Contents
 - [Description](#Description)
-- [Project Specifications](#Project Specifications)
-- [Technologies Used](#Technologies Used)
+- [Project Specifications](#Specifications)
+- [Technologies Used](#Technologies)
 - [Screenshots](#Screenshots)
 - [Contributions](#Contributions)
 
 ## Description
 A simple client side form validation. Checks required length for username and password, email validation using regex and password match.
 
-## Project Specifications
+## Specifications
 - Create form UI
 - Show error messages under specific inputs
 - checkRequired() to accept array of inputs
@@ -18,7 +18,7 @@ A simple client side form validation. Checks required length for username and pa
 - checkEmail() to validate email with regex
 - checkPasswordsMatch() to match confirm password
 
-## Technologies Used
+## Technologies
 - HTML
 - CSS 
 - Javascript
