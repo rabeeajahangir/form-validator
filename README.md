@@ -2,8 +2,8 @@
 
 ## Table of Contents
 - [Description](#Description)
-- [Project Specifications](#Project)
-- [Technologies Used](#Technologies)
+- [Project Specifications](#Project Specifications)
+- [Technologies Used](#Technologies Used)
 - [Screenshots](#Screenshots)
 - [Contributions](#Contributions)
 
