@@ -17,9 +17,9 @@ A simple client side form validation. Checks required length for username and pa
 - Javascript
 
 ## Screenshots:
-<img width="1440" alt="Screen Shot 2021-09-30 at 12 45 34 AM" src="https://user-images.githubusercontent.com/69980221/135389489-6a4fae62-32c7-431c-833a-2b13296d3e98.png"
-<img width="1440" alt="Screen Shot 2021-09-30 at 12 46 35 AM" src="https://user-images.githubusercontent.com/69980221/135389498-03b00ceb-b3c8-40df-baf8-267ff0af81f3.png">
->
+<img width="1440" alt="Screen Shot 2021-09-30 at 12 46 35 AM" src="https://user-images.githubusercontent.com/69980221/135389840-ebf43fda-4891-432b-8f6c-78e651ca2f48.png">
+<img width="1440" alt="Screen Shot 2021-09-30 at 12 45 34 AM" src="https://user-images.githubusercontent.com/69980221/135389862-5dfa6ee8-744d-4d1d-bc2e-7d5669ee2717.png">
+
 
 ## Contributions:
 Contributed by [Rabeea Jahangir](https://github.com/rabeeajahangir).
