@@ -32,4 +32,4 @@ A simple client side form validation. Checks required length for username and pa
 
 
 ## Contributions
-Contributed by [Rabeea Jahangir](https://github.com/rabeeajahangir). For further questions, please feel free to connect with me via [email](rabeeajahangir@gmail.com) or [LinkedIn](https://www.linkedin.com/in/rabeea-jahangir/). 
+Contributed by [Rabeea Jahangir](https://github.com/rabeeajahangir). For further questions, please feel free to connect with me via [email](mailto:rabeeajahangir@gmail.com) or [LinkedIn](https://www.linkedin.com/in/rabeea-jahangir/). 
